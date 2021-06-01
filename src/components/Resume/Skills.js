@@ -73,7 +73,8 @@ class Skills extends Component {
         <div className="link-to" id="skills" />
         <div className="title">
           <h3>Skills</h3>
-          <p>Note: I think these sections are silly, but everyone seems to have one.
+          <p>Note: scoring is not a correct way to measure skills, but consider the following:
+            5 is equivalent to advanced, 3 intermediate and 1 beginner.
             Here is a *mostly* honest overview of my skills.
           </p>
         </div>
