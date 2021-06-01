@@ -1,15 +1,21 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Federal University of Goiás (UFG)',
+    degree: 'Ph.D. Artificial Intelligence, Computer Science',
+    link: 'https://ufla.br/',
+    year: 'In Progress',
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Federal University of Lavras (UFLA)',
+    degree: 'M.S. Computational Intelligence, Computer Science',
+    link: 'https://ufla.br/',
+    year: '2012-2014',
+  },
+  {
+    school: 'Federal University of Lavras (UFLA)',
+    degree: 'B.S. Computer Science',
+    link: 'https://ufla.br/',
+    year: '2004-2008',
   },
 ];
 
