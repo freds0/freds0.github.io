@@ -7,7 +7,7 @@ Finishing my Master's degree, I started teaching at the Federal University of Ma
 
 # Projects
 
-Working with CyberLabs support, we developed neural models for TTS and STT and SR in Brazilian Portuguese. The main models we work are Tacotron-2, Tacotron-GST, for TTS, and DeepSpeech2, Wave2Letter, Jasper, and now Wav2vec for STT.
+Working with CyberLabs support, we developed neural models for TTS and STT and SR in Brazilian Portuguese. The main models we work are Tacotron-2, GST-Tacotron, for TTS, and DeepSpeech2, Wave2Letter, Jasper, and now Wav2vec for STT.
 
 # Currently
 

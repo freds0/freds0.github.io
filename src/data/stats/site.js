@@ -11,14 +11,14 @@ const data = [
     link: 'https://github.com/mldangelo/personal-site/stargazers',
   },
   {
-    label: 'Number of people watching this repository',
+    label: 'Number of people watching my main repository',
     key: 'subscribers_count',
-    link: 'https://github.com/mldangelo/personal-site/stargazers',
+    link: 'https://github.com/freds0/katube/stargazers',
   },
   {
     label: 'Number of forks',
     key: 'forks',
-    link: 'https://github.com/mldangelo/personal-site/network',
+    link: 'https://github.com/freds0/katube/network',
   },
   {
     label: 'Number of spoons',
@@ -31,12 +31,12 @@ const data = [
   {
     label: 'Open github issues',
     key: 'open_issues_count',
-    link: 'https://github.com/mldangelo/personal-site/issues',
+    link: 'https://github.com/freds0/katube/issues',
   },
   {
-    label: 'Last updated at',
+    label: 'Personal Page was last updated at',
     key: 'pushed_at',
-    link: 'https://github.com/mldangelo/personal-site/commits',
+    link: 'https://github.com/freds0/freds0.github.io/commits',
     format: (x) => dayjs(x).format('MMMM DD, YYYY'),
   },
   {

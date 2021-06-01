@@ -21,8 +21,8 @@ const SideBar = () => (
       <h2>About</h2>
       <p>Hi, my name is Fred. I&apos;m a hardworking programmer and I try to be a good teacher.
         I have a bachelor&apos;s and master&apos;s degree in computer science at <a href="http://www.dcc.ufla.br/">UFLA</a>.
-        I&apos;m a professor at <a href="https://www.ufmt.br/">UFMT</a>. I&apos;m also a Ph.D student at <a href="https://ufg.br/">UFG </a>
-        where I research artificial intelligence applied to speech.
+        I&apos;m a professor at <a href="https://www.ufmt.br/">UFMT</a>. I&apos;m also a Ph.D student at <a href="https://ufg.br/">UFG. </a>
+        I have been doing research in partnership with <a href="https://cyberlabs.ai/">CyberLabs</a> using artificial intelligence applied to speech.
       </p>
       <ul className="actions">
         <li>

@@ -1,5 +1,16 @@
 const positions = [
   {
+    company: 'CyberLabs',
+    position: 'researcher',
+    link: 'https://cyberlabs.ai/',
+    daterange: 'March 2019 - Present',
+    points: [
+      'Development of speech applications using deep neural networks. ',
+      'Development of tools for generating audio datasets.',
+      'Ttraining Text-to-Speech and Speech-to-Text models in Brazilian Portuguese.',
+    ],
+  },
+  {
     company: 'Federal University of Mato Grosso (UFMT)',
     position: 'Professor',
     link: 'https://www.faeng.ufmt.br/',
