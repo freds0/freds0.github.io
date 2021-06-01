@@ -9,7 +9,7 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 const data = [
   {
-    link: 'https://github.com/fred_s0',
+    link: 'https://github.com/freds0',
     label: 'Github',
     icon: faGithub,
   },
@@ -29,7 +29,7 @@ const data = [
     icon: faLinkedinIn,
   },
   {
-    link: 'https://twitter.com/freds_s0',
+    link: 'https://twitter.com/fred_s0',
     label: 'Twitter',
     icon: faTwitter,
   },

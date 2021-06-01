@@ -19,9 +19,10 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Fred. I&apos;m good at programming and teaching.
-        I&apos;m a <a href="https://ufla.br/">Computer Science</a> graduate, Lavras - MG - Brazil, and
-        I&apos;m a professor at <a href="https://www.ufmt.br/">UFMT</a>, V&aacute;rzea Grande - MT - Brazil. Now, I am a Ph.D researcher at <a href="https://ufg.br/">Artificial Inteligence</a>
+      <p>Hi, my name is Fred. I&apos;m a hardworking programmer and I try to be a good teacher.
+        I have a bachelor&apos;s and master&apos;s degree in computer science at <a href="http://www.dcc.ufla.br/">UFLA</a>.
+        I&apos;m a professor at <a href="https://www.ufmt.br/">UFMT</a>. I&apos;m also a Ph.D student at <a href="https://ufg.br/">UFG </a>
+        where I research artificial intelligence applied to speech.
       </p>
       <ul className="actions">
         <li>
@@ -32,7 +33,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Fred Oliveira <Link to="/">freds0.github.io</Link>.</p>
     </section>
   </section>
 );
