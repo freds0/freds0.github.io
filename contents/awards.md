@@ -1,21 +1,20 @@
-## Professional Experience
-
-### Machine Learning Engineer – Voice.AI
+### Machine Learning Engineer – [Voice.AI](https://voice.ai/)
 **March 2024 – August 2024** (Remote)
 - Developed and trained models for voice conversion and text-to-speech, focusing on optimizing performance and reliability.
 - Created tools for quality assessment to rigorously evaluate and enhance model performance.
 - Leveraged advanced technologies, including PyTorch, PyTorch Lightning, and ONNX, while collaborating effectively with international teams.
 
-### Machine Learning Engineer – Center of Excellence in Artificial Intelligence (CEIA)
+### Machine Learning Engineer – [Center of Excellence in Artificial Intelligence](https://ceia.ufg.br/) (CEIA)
 **March 2019 – March 2024** (Goiás, GO - Brazil)
 - Led the development of datasets for speech processing and trained models in various areas, including Speech-to-Text (Quartznet, Wav2Vec, Whisper), Text-to-Speech (Tacotron, YourTTS, XTTS), and Voice Conversion (Retrieval-based Voice Conversion, So-Vits-SVC).
 - Spearheaded projects in speech synthesis and voice conversion, contributing to significant advancements in voice technology.
 
-### Machine Learning Engineer – CyberLabs
-**2019 – 2020** (Completed)
-- Contributed to the development of tools for automatic speech processing dataset creation.
-- Instrumental in refining Brazilian Portuguese models such as Tacotron, HiFi-GAN, and Wav2Vec.
-- Utilized technologies like Python, Scikit-Learn, PyTorch, TensorFlow, Docker, and Flask to enhance speech processing capabilities.
+### Professor – [Federal University of Mato Grosso](https://www.ufmt.br/) (UFMT)
+**2015 – 2023** (Cuiabá, MT - Brazil)
+- Computer Science Professor at the Faculty of Engineering.
+- Taught various computer science courses, including Algorithms and Data Structures I, II, and III, Artificial Intelligence, Object-Oriented Programming, and Software Design and Development.
+- Mentored students, guiding them through their academic and research projects.
+- Developed and led research and extension projects, contributing to the academic and practical advancement of the field.
 
 ## Developed Projects
 
