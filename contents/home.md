@@ -10,9 +10,9 @@ In my professional journey, I have worked on cutting-edge projects related to na
 fred.santos.oliveira[at]gmail.com
 
 #### Education
-- Ph.D., Artificial Intelligence, Federal University of Goiás (UFG), 2019—2023.
-- M.Sc., Computer Science, Federal University of Lavras (UFLA), 2012—2014.
-- B.Sc. , Computer Science, Federal University of Lavras (UFLA), 2004—2009.
+- Ph.D., Artificial Intelligence, [Federal University of Goiás](https://pos.ufg.br/p/pos-graduacao-ciencia-computacao-ppgcc) (UFG), 2019—2023.
+- M.Sc., Computer Science, [Federal University of Lavras](https://dcc.ufla.br/ppg/ppg-computacao.html) (UFLA), 2012—2014.
+- B.Sc. , Computer Science, [Federal University of Lavras](https://icet.ufla.br/graduacao/ciencia-computacao-bacharelado) (UFLA), 2004—2009.
 
 #### Research Interests
 Deep Learning, Artificial Intelligence, Natural Language Processing, Speech Processing, Large Language Models, Text-to-Speech, Voice Conversion, Automatic Speech Recognition, Speech-to-Text, Speaker Diarization, Speech Enhancement
