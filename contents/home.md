@@ -15,5 +15,5 @@ fred.santos.oliveira[at]gmail.com
 - B.Sc. , Computer Science, Federal University of Lavras (UFLA), 2004—2009.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence, Speech Processing, Text-to-Speech, Voice Conversion, Automatic Speech Recognition, Speech-to-Text, Speaker Diarization, Speech Enhancement
+Deep Learning, Artificial Intelligence, Natural Language Processing, Speech Processing, Large Language Models, Text-to-Speech, Voice Conversion, Automatic Speech Recognition, Speech-to-Text, Speaker Diarization, Speech Enhancement
 
