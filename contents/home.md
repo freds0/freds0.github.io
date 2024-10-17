@@ -2,7 +2,7 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/freds0)
 
-Hi! My name is Fred, and I am a computer scientist and AI researcher with a specialization in speech applications developed through deep neural networks. 
+Hi! My name is Fred, and I am a Machine Learning Engineer and AI researcher with a specialization in speech applications developed through deep neural networks. 
 
 #### Email
 fred.santos.oliveira[at]gmail.com
