@@ -1,12 +1,12 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
+- <strong>F. S. Oliveira</strong>,, E. Casanova, A. C. Júnior, A. S. Soares, A. R. Filho (2023). CML-TTS: A Multilingual Dataset for Speech Synthesis in Low-Resource Languages. Springer Professional. [Paper](https://arxiv.org/abs/2306.10097)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>F. S. Oliveira</strong>, E. Casanova, A. C. Júnior, L, R. S. Gris, A. S. Soares, A. R. Filho. Evaluation of Speech Representations for MOS Prediction. Springer Professional. [Paper](https://arxiv.org/abs/2306.09979)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- E. Casanova, C. Shulby, E. Gölge, N. M. Müller, <strong>F. S. Oliveira</strong>, A. C. Junior, A. S. Soares, S. M. Aluisio, M. A. Ponti (2021). SC-GlowTTS: An Efficient Zero-Shot Multi-Speaker Text-To-Speech Model. Interspeech 2021. [Paper](https://arxiv.org/abs/2104.05557)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- L. R. S. Gris, E. Casanova, <strong>F. S. Oliveira</strong>, A. S. Soares, A. C. Junior (2021). Brazilian Portuguese Speech Recognition Using Wav2vec 2.0. arXiv preprint arXiv:2107.11414. [Paper](https://arxiv.org/abs/2107.11414)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- A. C. Junior, E. Casanova, A. S. Soares, <strong>F. S. Oliveira</strong>, L. Oliveira, R. C. F. Junior, D. P. Silva, F. G. Fayet, B. B. Carlotto, L. R. S. Gris, S. M. Aluísio (2021). CORAA: A Large Corpus of Spontaneous and Prepared Speech Manually Validated for Speech Recognition in Brazilian Portuguese. Springer Professional. [Paper](https://arxiv.org/abs/2110.15731)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- E. Casanova, A. C.o Junior, C.r Shulby, <strong>F. S. Oliveira</strong>, J. P. Teixeira, M. A. Ponti, S. M. Aluisio (2020). TTS-Portuguese Corpus: A Corpus for Speech Synthesis in Brazilian Portuguese. arXiv preprint arXiv:2005.05144. [Paper](https://arxiv.org/abs/2005.05144)
 

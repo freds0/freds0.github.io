@@ -1,16 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/freds0)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Hi! My name is Fred, and I am a computer scientist and AI researcher with a specialization in speech applications developed through deep neural networks. 
 
 #### Email
-sli[at]cumt.edu.cn
+fred.santos.oliveira[at]gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Artificial Intelligence, Federal University of Goiás (UFG), 2019—2023.
+M.Sc., Computer Science, Federal University of Lavras (UFLA), 2012—2014.
+B.Sc. , Computer Science, Federal University of Lavras (UFLA), 2004—2009.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Artificial Intelligence, Speech Processing, Text-to-Speech, Voice Conversion, Automatic Speech Recognition, Speech-to-Text, Speaker Diarization, Speech Enhancement
 
