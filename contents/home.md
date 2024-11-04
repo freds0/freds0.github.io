@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/freds0)
+[![freds0](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/freds0)
 
 Hello! My name is Fred Oliveira, and I am a passionate Machine Learning Researcher and Engineer with extensive experience in artificial intelligence and computer science. Over the years, I have had the privilege of working as an assistant professor at the Federal University of Mato Grosso (UFMT), where I taught courses such as Algorithms and Data Structures, Artificial Intelligence, Object-Oriented Programming, and Software Design and Development. 
 
