@@ -12,7 +12,8 @@
     --footer-bg: #3948d2;
 }
 
-body.dark-theme {
+/* Apply dark theme by default */
+body {
     --h-title-color: #6b7cff;
     --bg-light: #1a1a1a;
     --bg-white: #000000;
@@ -26,17 +27,34 @@ body.dark-theme {
     --bs-border-color: #3a3a3a;
     --bs-link-color: #6b7cff;
     --bs-link-hover-color: #8a9aff;
-}
-
-body.dark-theme {
     background-color: var(--bg-white);
     color: var(--text-color);
 }
 
+/* Light theme override */
+body.light-theme {
+    --h-title-color:#3948d2;
+    --bg-light: #fcfcfc;
+    --bg-white: #ffffff;
+    --bg-gray-light: #f0f0f0;
+    --bg-gray: #f1f1f1;
+    --text-color: #212529;
+    --nav-bg: #ffffff;
+    --footer-bg: #3948d2;
+    --bs-body-bg: #ffffff;
+    --bs-body-color: #212529;
+    --bs-border-color: #dee2e6;
+    --bs-link-color: #2937f0;
+    --bs-link-hover-color: #212cc0;
+    background-color: var(--bg-white);
+    color: var(--text-color);
+}
+
+
 .header {
     border-bottom: solid 2px var(--bs-blue);
     z-index: 10000;
-    background-color: var(--nav-bg);
+    background-color: var(--nav-bg) !important;
 }
 
 .bg-bottom {
@@ -151,35 +169,45 @@ section .main-body{
     opacity: 0.7;
 }
 
-/* Dark theme specific styles */
-body.dark-theme .navbar-brand,
-body.dark-theme .nav-link {
+/* Theme specific styles */
+.header,
+.navbar {
+    background-color: var(--nav-bg) !important;
+}
+
+.navbar-brand,
+.nav-link {
     color: var(--text-color) !important;
 }
 
-body.dark-theme .navbar-toggler {
+.navbar-toggler {
     border-color: var(--text-color);
     color: var(--text-color);
 }
 
-body.dark-theme .navbar-toggler .bi-list {
+.navbar-toggler .bi-list {
     color: var(--text-color);
 }
 
-body.dark-theme section header h2 {
+section header h2 {
     color: var(--h-title-color);
 }
 
-body.dark-theme .text-white-50 {
+.text-white-50 {
     color: rgba(224, 224, 224, 0.5) !important;
 }
 
-body.dark-theme a {
+a {
     color: var(--bs-link-color);
 }
 
-body.dark-theme a:hover {
+a:hover {
     color: var(--bs-link-hover-color);
+}
+
+/* Light theme overrides */
+body.light-theme .text-white-50 {
+    color: rgba(33, 37, 41, 0.5) !important;
 }
 
 

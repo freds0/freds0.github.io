@@ -6,22 +6,26 @@ const section_names = ['home', 'publications', 'awards']
 
 // Theme management
 function initTheme() {
-    const savedTheme = localStorage.getItem('theme') || 'light';
+    const savedTheme = localStorage.getItem('theme') || 'dark';
     const themeIcon = document.getElementById('theme-icon');
     const profilePhoto = document.getElementById('profile-photo');
 
-    if (savedTheme === 'dark') {
-        document.body.classList.add('dark-theme');
+    if (savedTheme === 'light') {
+        document.body.classList.add('light-theme');
+        if (themeIcon) {
+            themeIcon.classList.remove('bi-sun-fill');
+            themeIcon.classList.add('bi-moon-fill');
+        }
+        if (profilePhoto) {
+            profilePhoto.src = 'static/assets/img/photo_white.png';
+        }
+    } else {
         if (themeIcon) {
             themeIcon.classList.remove('bi-moon-fill');
             themeIcon.classList.add('bi-sun-fill');
         }
         if (profilePhoto) {
             profilePhoto.src = 'static/assets/img/photo_black.png';
-        }
-    } else {
-        if (profilePhoto) {
-            profilePhoto.src = 'static/assets/img/photo_white.png';
         }
     }
 }
@@ -31,21 +35,21 @@ function toggleTheme() {
     const themeIcon = document.getElementById('theme-icon');
     const profilePhoto = document.getElementById('profile-photo');
 
-    body.classList.toggle('dark-theme');
+    body.classList.toggle('light-theme');
 
-    if (body.classList.contains('dark-theme')) {
-        localStorage.setItem('theme', 'dark');
-        themeIcon.classList.remove('bi-moon-fill');
-        themeIcon.classList.add('bi-sun-fill');
-        if (profilePhoto) {
-            profilePhoto.src = 'static/assets/img/photo_black.png';
-        }
-    } else {
+    if (body.classList.contains('light-theme')) {
         localStorage.setItem('theme', 'light');
         themeIcon.classList.remove('bi-sun-fill');
         themeIcon.classList.add('bi-moon-fill');
         if (profilePhoto) {
             profilePhoto.src = 'static/assets/img/photo_white.png';
+        }
+    } else {
+        localStorage.setItem('theme', 'dark');
+        themeIcon.classList.remove('bi-moon-fill');
+        themeIcon.classList.add('bi-sun-fill');
+        if (profilePhoto) {
+            profilePhoto.src = 'static/assets/img/photo_black.png';
         }
     }
 }
