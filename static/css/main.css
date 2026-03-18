@@ -3,15 +3,44 @@
 
 :root{
     --h-title-color:#3948d2;
+    --bg-light: #fcfcfc;
+    --bg-white: #ffffff;
+    --bg-gray-light: #f0f0f0;
+    --bg-gray: #f1f1f1;
+    --text-color: #212529;
+    --nav-bg: #ffffff;
+    --footer-bg: #3948d2;
+}
+
+body.dark-theme {
+    --h-title-color: #6b7cff;
+    --bg-light: #1a1a1a;
+    --bg-white: #000000;
+    --bg-gray-light: #2a2a2a;
+    --bg-gray: #1f1f1f;
+    --text-color: #e0e0e0;
+    --nav-bg: #000000;
+    --footer-bg: #1a1a1a;
+    --bs-body-bg: #000000;
+    --bs-body-color: #e0e0e0;
+    --bs-border-color: #3a3a3a;
+    --bs-link-color: #6b7cff;
+    --bs-link-hover-color: #8a9aff;
+}
+
+body.dark-theme {
+    background-color: var(--bg-white);
+    color: var(--text-color);
 }
 
 .header {
     border-bottom: solid 2px var(--bs-blue);
     z-index: 10000;
+    background-color: var(--nav-bg);
 }
 
 .bg-bottom {
-    background-color: var(--h-title-color);
+    background-color: var(--footer-bg);
 }
 
 .top-section {
@@ -56,11 +85,11 @@ section .main-body{
 
 
 .bg-gradient-primary-to-secondary-light {
-    background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;
+    background: linear-gradient(45deg, var(--bg-light), var(--bg-white)) !important;
 }
 
 .bg-gradient-primary-to-secondary-gray {
-    background: linear-gradient(45deg, #f0f0f0, #f1f1f1) !important;
+    background: linear-gradient(45deg, var(--bg-gray-light), var(--bg-gray)) !important;
 }
 
 
@@ -107,6 +136,50 @@ section .main-body{
     #avatar {
         margin: 0;
     }
+}
+
+#theme-toggle {
+    border: none;
+    background: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+    padding: 0.5rem;
+    color: var(--text-color);
+}
+
+#theme-toggle:hover {
+    opacity: 0.7;
+}
+
+/* Dark theme specific styles */
+body.dark-theme .navbar-brand,
+body.dark-theme .nav-link {
+    color: var(--text-color) !important;
+}
+
+body.dark-theme .navbar-toggler {
+    border-color: var(--text-color);
+    color: var(--text-color);
+}
+
+body.dark-theme .navbar-toggler .bi-list {
+    color: var(--text-color);
+}
+
+body.dark-theme section header h2 {
+    color: var(--h-title-color);
+}
+
+body.dark-theme .text-white-50 {
+    color: rgba(224, 224, 224, 0.5) !important;
+}
+
+body.dark-theme a {
+    color: var(--bs-link-color);
+}
+
+body.dark-theme a:hover {
+    color: var(--bs-link-hover-color);
 }
 
 

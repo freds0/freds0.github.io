@@ -1,13 +1,19 @@
 
 
-[![freds0](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/freds0)
+[![freds0](https://img.shields.io/badge/freds0-github-blue?logo=github)](https://github.com/freds0)
 
-Hello! My name is Fred Oliveira, and I am a passionate Machine Learning Researcher and Engineer with extensive experience in artificial intelligence and computer science. Over the years, I have had the privilege of working as an assistant professor at the Federal University of Mato Grosso (UFMT), where I taught courses such as Algorithms and Data Structures, Artificial Intelligence, Object-Oriented Programming, and Software Design and Development. 
+Hello! My name is **Frederico Santos de Oliveira**, and I am a passionate Machine Learning Researcher and Engineer with a PhD in Artificial Intelligence and over 10 years of experience in software development. I specialize in **Speech Technologies (TTS, ASR, VC)** and **Audio Processing**, with extensive experience in deploying SOTA models to production environments and publishing at top-tier conferences like Interspeech, EMNLP and ICASSP.
 
-In my professional journey, I have worked on cutting-edge projects related to natural language processing and speech processing. My experience extends to developing datasets for multilingual TTS models, as well as creating tools to automate the generation of speech datasets. I have led the development and deployment of AI models for industries such as audiovisual, power transmission, speech processing and music processing. My work combines cutting-edge research with practical applications, aiming to push the boundaries of AI-driven solutions.
+Throughout my career, I have led R&D initiatives and fine-tuned Large Language Models for specialized tasks. My work spans industries including healthcare, audiovisual production, and speech technology. I am experienced in developing models for analyzing 3D magnetic resonance imaging of the brain, creating clinical reports using LLMs, and driving R&D on Speech Processing and NLP architectures. I have also worked as an assistant professor at the Federal University of Mato Grosso (UFMT), teaching courses such as Algorithms and Data Structures, Artificial Intelligence, Object-Oriented Programming, and Software Design and Development.
 
-#### Email
-fred.santos.oliveira[at]gmail.com
+My work combines cutting-edge research with practical applications, aiming to push the boundaries of AI-driven solutions in real-world scenarios.
+
+#### Contact
+- **Email**: fred.santos.oliveira[at]gmail.com
+- **Phone**: +55 65 98112 8940
+- **Website**: [fredso.com.br](https://fredso.com.br)
+- **GitHub**: [github.com/freds0](https://github.com/freds0)
+- **LinkedIn**: [in/fred-santos-oliveira](https://linkedin.com/in/fred-santos-oliveira)
 
 #### Education
 - Ph.D., Artificial Intelligence, [Federal University of Goiás](https://pos.ufg.br/p/pos-graduacao-ciencia-computacao-ppgcc) (UFG), 2019—2023.
@@ -16,4 +22,18 @@ fred.santos.oliveira[at]gmail.com
 
 #### Research Interests
 Deep Learning, Artificial Intelligence, Natural Language Processing, Speech Processing, Large Language Models, Text-to-Speech, Voice Conversion, Automatic Speech Recognition, Speech-to-Text, Speaker Diarization, Speech Enhancement
+
+#### Technical Skills
+- **Core AI/ML**: PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers, Lightning, ONNX
+- **Audio/Speech**: TTS (VITS, Flow-based, XTTS, Orpheus-TTS), ASR (Whisper, Wav2Vec), VC (RVC, So-VITS-SVC)
+- **DevOps & Tools**: Docker, Git, Linux (Bash), SLURM, LaTeX, CI/CD Pipelines
+- **Languages**: Python (Expert), Shell Scripting (Bash)
+
+#### Languages
+- **Portuguese**: Native
+- **English**: Full Professional Proficiency
+
+---
+
+📄 **[Download Full CV/Resume (PDF)](Frederico_Santos_Oliveira_CV.pdf)**
 
