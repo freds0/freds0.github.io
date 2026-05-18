@@ -4,6 +4,8 @@
 
 * **ICASSP 2025**: A. I. S. Ferreira, L. R. Gris, A. S. Rosa, **F. S. Oliveira**, E. Casanova, R. T. Sousa, A. C. Junior, A. S. Soares, A. G. Filho. FreeSVC: Towards Zero-shot Multilingual Singing Voice Conversion. [PDF](https://arxiv.org/abs/2310.00000)
 
+ **DISS 2025**: Ferreira, M.H.L., Ferreira, A.I., Gris, L.R., Tanaka, R., Filho, I.J.S., Oliveira, F., Filho, A.G. (2025) Multimodal Disfluency Detection via Acoustic-Text Fusion: Comparing Intended and Verbatim ASR Transcripts. [Link](https://www.isca-archive.org/diss_2025/ferreira25_diss.html)
+
 * **Interspeech 2021**: E. Casanova, C. Shulby, E. Gölge, N. M. Müller, **F. S. Oliveira**, A. C. Junior, A. S. Soares, S. M. Aluisio, M. A. Ponti. SC-GlowTTS: an Efficient Zero-Shot Multi-Speaker Text-To-Speech Model. [PDF](https://arxiv.org/abs/2104.05557)
 
 * **Springer (2024)**: **F. S. Oliveira**, E. Casanova, A. C. Junior, A. S. Soares, A. R. G. Filho. CML-TTS: A Multilingual Dataset for Speech Synthesis in Low-Resource Languages. [Link](https://arxiv.org/abs/2306.10097)
