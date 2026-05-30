@@ -10,7 +10,7 @@ My work combines cutting-edge research with practical applications, aiming to pu
 
 #### Contact
 - **Email**: fred.santos.oliveira[at]gmail.com
-- **Phone**: +55 65 98112 8940
+- **Phone**: +55 65 98142 8940
 - **Website**: [fredso.com.br](https://fredso.com.br)
 - **GitHub**: [github.com/freds0](https://github.com/freds0)
 - **LinkedIn**: [in/fred-santos-oliveira](https://linkedin.com/in/fred-santos-oliveira)
